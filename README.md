@@ -1,65 +1,23 @@
 # DATA ANALYST INTERNSHIP
-PROJECT 1 - DATA CLEANING
 
-This project focuses on cleaning and preparing a raw dataset using Microsoft Excel for further data analysis.
+This project focuses on analyzing an e-commerce dataset through a complete **Data Analytics workflow**, starting from data cleaning and Exploratory Data Analysis (EDA) to creating an interactive Power BI dashboard.
 
-The dataset was cleaned by identifying and handling missing values, removing duplicate records, correcting inconsistent data, standardizing values, and organizing the data into a structured format.
+### Project 1 – Data Cleaning
 
-Objectives
+The raw dataset was cleaned and prepared using **Microsoft Excel** by handling missing values, removing duplicates, correcting inconsistencies, standardizing data formats, and organizing the data for analysis.
 
-- Clean and organize raw data
-- Identify and handle missing values
-- Remove duplicate records
-- Correct inconsistent data
-- Standardize data formats
-- Prepare the dataset for further analysis
+### Project 2 – Exploratory Data Analysis (EDA)
 
-Tools Used
+EDA was performed using **Excel** to understand the dataset through descriptive statistics, frequency and distribution analysis, histograms, outlier analysis, Pivot Tables, and charts. Product-wise, category-wise, sales, quantity, and variable relationships were analyzed to identify important patterns and trends.
 
-- Microsoft Excel
-  
-Result
+### Project 3 – Power BI Dashboard
 
-The raw dataset was successfully cleaned and organized in Microsoft Excel, making it ready for further data analysis and visualization.
+The cleaned and analyzed dataset was transformed into an **interactive Power BI dashboard** using **DAX, KPI cards, charts, and slicers**. The dashboard analyzes total sales, orders, quantity, average/max/min order value, monthly sales trends, product performance, order status, referral sources, payment methods, and coupon codes.
 
+### Tools & Skills
 
+**Microsoft Excel | Pivot Tables | Charts & Histograms | Microsoft Power BI | DAX | Data Cleaning | EDA | Data Visualization | Dashboard Design**
 
-PROJECT 2 – EXPLORATORY DATA ANALYSIS (EDA)
+### Outcome
 
-This project focuses on performing Exploratory Data Analysis (EDA) on the cleaned dataset using Microsoft Excel to understand patterns, trends, distributions, and relationships within the data.
-
-Objectives
-
-Understand the structure and characteristics of the dataset
-
-Calculate descriptive statistics
-Analyze numerical variables
-
-Identify patterns and trends in the data
-
-Analyze the distribution of variables using histograms
-
-Identify potential outliers
-
-Analyze relationships between different variables
-Summarize data using Pivot Tables
-Create meaningful visualizations for data interpretation
-
-EDA Performed:-
-
-Descriptive statistics
-Mean,Median,Mode,Minimum,Maximum,Standard Deviation,Variance
-Distribution analysis using histograms
-Outlier analysis,Frequency analysis,Pivot Table analysis
-Category-wise analysis,Product-wise analysis,Sales/quantity analysis
-Relationship analysis between variables
-
-
-Tools Used:-
-
-Microsoft Excel
-Pivot Tables,Charts and Histograms
-
-Result
-
-The EDA helped identify important patterns, distributions, trends, and relationships within the data and provided useful insights for further analysis.
+The project demonstrates the complete data analysis process of **cleaning raw data, exploring and interpreting data, and presenting meaningful business insights through an interactive dashboard**.
