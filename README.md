@@ -10,7 +10,7 @@ The raw dataset was cleaned and prepared using **Microsoft Excel** by handling m
 
 EDA was performed using **Excel** to understand the dataset through descriptive statistics, frequency and distribution analysis, histograms, outlier analysis, Pivot Tables, and charts. Product-wise, category-wise, sales, quantity, and variable relationships were analyzed to identify important patterns and trends.
 
-### Project 3 – Power BI Dashboard
+### Project 4 – Power BI Dashboard
 
 The cleaned and analyzed dataset was transformed into an **interactive Power BI dashboard** using **DAX, KPI cards, charts, and slicers**. The dashboard analyzes total sales, orders, quantity, average/max/min order value, monthly sales trends, product performance, order status, referral sources, payment methods, and coupon codes.
 
